@@ -1,0 +1,50 @@
+.center{
+    text-align:center;
+}
+.tbl-principal{
+    margin-top: 25px;
+}
+.sp-numero{
+    padding: 5px;
+    border: 1px solid #696969;
+    border-radius: 50%;
+    background-color: white;
+}
+
+/* Cores das células */
+.cor-0{ background-color: #ffffff }
+.cor-1{ background-color: #fafaff }
+.cor-2{ background-color: #f8f8ff }
+.cor-3{ background-color: #f6f6ff }
+.cor-4{ background-color: #f4f4ff }
+.cor-5{ background-color: #f2f2ff }
+.cor-6{ background-color: #f0f0ff }
+.cor-7{ background-color: #ebebff }
+.cor-8{ background-color: #e5e5ff }
+.cor-9{ background-color: #dedeff }
+.cor-10{ background-color: #d8d8ff }
+.cor-11{ background-color: #d0d0ff }
+.cor-12{ background-color: #c9c9ff }
+.cor-13{ background-color: #c4c4ff }
+.cor-14{ background-color: #babaff }
+.cor-15{ background-color: #b4b4ff }
+.cor-16{ background-color: #ababff }
+.cor-17{ background-color: #a1a1ff }
+.cor-18{ background-color: #9a9aff }
+.cor-19{ background-color: #9494ff }
+.cor-20{ background-color: #8c8cff }
+.cor-21{ background-color: #8080ff }
+.cor-22{ background-color: #7474ff; color: #cdcdcd }
+.cor-23{ background-color: #6b6bff; color: #cdcdcd }
+.cor-24{ background-color: #6262ff; color: #cdcdcd }
+.cor-25{ background-color: #5656ff; color: #cdcdcd }
+.cor-26{ background-color: #4d4dff; color: #cdcdcd }
+.cor-27{ background-color: #4545ff; color: #cdcdcd }
+.cor-28{ background-color: #3c3cff; color: white }
+.cor-29{ background-color: #3232ff; color: white }
+.cor-30{ background-color: #2a2aff; color: white }
+.cor-31, .cor-32{ background-color: #2222ff; color: white }
+.cor-33, .cor-34, .cor-35{ background-color: #1b1bff; color: white }
+.cor-36, .cor-37, .cor-38, .cor-39{ background-color: #0d0dff; color: white }
+.cor-40, .cor-41, .cor-42, .cor-43, .cor-44, .cor-45, .cor-46, .cor-47, .cor-48, .cor-49{ background-color: #0606ff; color: white }
+.cor-50, .cor-51, .cor-52, .cor-53, .cor-54, .cor-55, .cor-56, .cor-57, .cor-58, .cor-59{ background-color: #0000ff; color: white }
