@@ -9,6 +9,7 @@
     border: 1px solid #696969;
     border-radius: 50%;
     background-color: white;
+    color: black;
 }
 
 /* Cores das células */
@@ -32,14 +33,14 @@
 .cor-17{ background-color: #a1a1ff }
 .cor-18{ background-color: #9a9aff }
 .cor-19{ background-color: #9494ff }
-.cor-20{ background-color: #8c8cff }
-.cor-21{ background-color: #8080ff }
+.cor-20{ background-color: #8c8cff; color: #cdcdcd }
+.cor-21{ background-color: #8080ff; color: #cdcdcd }
 .cor-22{ background-color: #7474ff; color: #cdcdcd }
-.cor-23{ background-color: #6b6bff; color: #cdcdcd }
-.cor-24{ background-color: #6262ff; color: #cdcdcd }
-.cor-25{ background-color: #5656ff; color: #cdcdcd }
-.cor-26{ background-color: #4d4dff; color: #cdcdcd }
-.cor-27{ background-color: #4545ff; color: #cdcdcd }
+.cor-23{ background-color: #6b6bff; color: white }
+.cor-24{ background-color: #6262ff; color: white }
+.cor-25{ background-color: #5656ff; color: white }
+.cor-26{ background-color: #4d4dff; color: white }
+.cor-27{ background-color: #4545ff; color: white }
 .cor-28{ background-color: #3c3cff; color: white }
 .cor-29{ background-color: #3232ff; color: white }
 .cor-30{ background-color: #2a2aff; color: white }
