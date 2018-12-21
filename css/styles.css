@@ -33,9 +33,9 @@
 .cor-17{ background-color: #a1a1ff }
 .cor-18{ background-color: #9a9aff }
 .cor-19{ background-color: #9494ff }
-.cor-20{ background-color: #8c8cff; color: #cdcdcd }
-.cor-21{ background-color: #8080ff; color: #cdcdcd }
-.cor-22{ background-color: #7474ff; color: #cdcdcd }
+.cor-20{ background-color: #8c8cff }
+.cor-21{ background-color: #8080ff }
+.cor-22{ background-color: #7474ff }
 .cor-23{ background-color: #6b6bff; color: white }
 .cor-24{ background-color: #6262ff; color: white }
 .cor-25{ background-color: #5656ff; color: white }
@@ -44,8 +44,32 @@
 .cor-28{ background-color: #3c3cff; color: white }
 .cor-29{ background-color: #3232ff; color: white }
 .cor-30{ background-color: #2a2aff; color: white }
-.cor-31, .cor-32{ background-color: #2222ff; color: white }
-.cor-33, .cor-34, .cor-35{ background-color: #1b1bff; color: white }
-.cor-36, .cor-37, .cor-38, .cor-39{ background-color: #0d0dff; color: white }
-.cor-40, .cor-41, .cor-42, .cor-43, .cor-44, .cor-45, .cor-46, .cor-47, .cor-48, .cor-49{ background-color: #0606ff; color: white }
-.cor-50, .cor-51, .cor-52, .cor-53, .cor-54, .cor-55, .cor-56, .cor-57, .cor-58, .cor-59{ background-color: #0000ff; color: white }
+.cor-31{ background-color: #2828ff; color: white }
+.cor-32{ background-color: #2323ff; color: white }
+.cor-33{ background-color: #1b1bff; color: white }
+.cor-34{ background-color: #1515ff; color: white }
+.cor-35{ background-color: #0e0eff; color: white }
+.cor-36{ background-color: #0909ff; color: white }
+.cor-37{ background-color: #0505ff; color: white }
+.cor-38{ background-color: #0000ff; color: white }
+.cor-39{ background-color: #0000fc; color: white }
+.cor-40{ background-color: #0000f9; color: white }
+.cor-41{ background-color: #0000f6; color: white }
+.cor-42{ background-color: #0000f2; color: white }
+.cor-43{ background-color: #0000ee; color: white }
+.cor-44{ background-color: #0000eb; color: white }
+.cor-45{ background-color: #0000e7; color: white }
+.cor-46{ background-color: #0000e3; color: white }
+.cor-47{ background-color: #0000df; color: white }
+.cor-48{ background-color: #0000db; color: white }
+.cor-49{ background-color: #0000d7; color: white }
+.cor-50{ background-color: #0000d3; color: white }
+.cor-51{ background-color: #0000cf; color: white }
+.cor-52{ background-color: #0000cb; color: white }
+.cor-53{ background-color: #0000c7; color: white }
+.cor-54{ background-color: #0000c3; color: white }
+.cor-55{ background-color: #0000bf; color: white }
+.cor-56{ background-color: #0000bb; color: white }
+.cor-57{ background-color: #0000b7; color: white }
+.cor-58{ background-color: #0000b1; color: white }
+.cor-59{ background-color: #0000a8; color: white }
