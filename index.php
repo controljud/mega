@@ -9,6 +9,7 @@ $res = substr($result, 77, strlen($result)-(95+77));
 
 $sorteios = explode('<div class="limpar_flutuacao"></div>', $res);
 $sorteados = [];
+$numUltimo = '';
 $dtUltimo = '';
 $ultimoSorteio = '';
 
@@ -19,6 +20,7 @@ foreach($sorteios as $sorteio){
 
     $s1 = explode(' - ', $sort);
     $s2 = explode(' ', trim($s1[2]));
+    $numUltimo = $numUltimo == '' ? trim($s1[0]) : $numUltimo;
     $dtUltimo = $dtUltimo == '' ? trim($s1[1]) : $dtUltimo;
     $ultimoSorteio = $ultimoSorteio == '' ? trim($s1[2]) : $ultimoSorteio;
 
@@ -71,7 +73,7 @@ ksort($sorteados);
 <div class="row">
     <div class="col-md-3"></div>
     <div class="col-md-6">
-        <p><b>Último sorteio: </b><?php echo $dtUltimo.' - '.$ultimoSorteio; ?></p>
+        <p><b>Último sorteio: <u><?php echo $numUltimo.':'; ?></u></b><?php echo ' '.$dtUltimo.' - '.$ultimoSorteio; ?></p>
     </div>
     <div class="col-md-3"></div>
 </div>
